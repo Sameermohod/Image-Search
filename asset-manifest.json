@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image-Search/static/css/main.e758d3e3.css",
+    "main.js": "/Image-Search/static/js/main.e46aafd9.js",
+    "index.html": "/Image-Search/index.html",
+    "main.e758d3e3.css.map": "/Image-Search/static/css/main.e758d3e3.css.map",
+    "main.e46aafd9.js.map": "/Image-Search/static/js/main.e46aafd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e758d3e3.css",
+    "static/js/main.e46aafd9.js"
+  ]
+}
